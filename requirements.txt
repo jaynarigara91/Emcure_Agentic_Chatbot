@@ -1,0 +1,17 @@
+langchain_google_genai
+langchain_text_splitters
+langchain_community
+langchain_groq
+langchain_ollama
+datetime
+flask
+flask_cors
+chromadb
+pydantic
+langchain_core
+mysql-connector-python
+bs4
+langchain
+tiktoken
+langgraph
+typing
